@@ -20,3 +20,20 @@
 - **Allure 2** - система отчетов
 - **Maven** - сборка проекта
 - **POM** - паттерн Page Object Model
+
+**Репозиторий:** https://github.com/Buhoy-Vampir/saucedemo-test/tree/dev
+
+**Pull Request:** 
+
+## **Что реализовано:**
+
+- ✅ 5 тестовых сценариев логина
+- ✅ Page Object Model
+- ✅ Allure отчеты
+- ✅ Maven сборка
+- ✅ JUnit 5
+- ✅ Две ветки (master/dev) с историей коммитов
+
+## **Как запустить:**
+1. Клонировать репозиторий
+2. `mvn clean test allure:serve` или запустить run-test.bat в папке репозитория
