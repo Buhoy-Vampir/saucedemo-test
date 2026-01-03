@@ -23,7 +23,7 @@
 
 **Репозиторий:** https://github.com/Buhoy-Vampir/saucedemo-test/tree/dev
 
-**Pull Request:** 
+**Pull Request:** https://github.com/Buhoy-Vampir/saucedemo-test/pull/2
 
 ## **Что реализовано:**
 
